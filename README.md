@@ -1,6 +1,7 @@
-### Heyo! 👋
+# 🏄‍♂️ Abenezer Workija
 
-### A bit about me
+**`Product Engineer (Developer/Designer/Programmer)`**
+
 
 I like Movies, Music, Gossip, rainy days of Addis Ababa, and coding. (and arch btw) 🖥️
 
