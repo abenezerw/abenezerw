@@ -11,7 +11,7 @@ I like Movies, Music, Gossip, rainy days of Addis Ababa, plus coding. (and arch 
 
 ### The vibe
 
-:panda_face: relax, write some code, be a UI obsessed nerd, and enjoy life 🍵
+:panda_face: Relax, write some code, be a UI obsessed nerd, and enjoy life 🍵
 
 ## Languages and Tools
 
